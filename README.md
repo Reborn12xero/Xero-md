@@ -1,13 +1,13 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> XERO MD WHATSAPP BOT V1 🔥 </h1> 
  <br>
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing XERO MD WHATSAPP BOT V1 🔥, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+  <a href="">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/fe6457c579eee55facee5.jpg">
   </a>
 </p>
     
