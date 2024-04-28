@@ -1,39 +1,6 @@
-/**
-//════════════════════════════════════════════════════════════════════════════════════════════//
-//                                                                                            //
-//                                ＷＨＡＴＳＡＰＰ ＢＯＴ－ＭＤ ＢＥＴＡ                          //
-//                                                                                            // 
-//                                         Ｖ：2．5．0                                         // 
-//                                                                                            // 
-//                                                                                            // 
-//          ██████╗ ██╗███████╗████████╗███████╗██████╗     ███╗   ███╗██████╗                // 
-//         ██╔════╝ ██║██╔════╝╚══██╔══╝██╔════╝██╔══██╗    ████╗ ████║██╔══██╗               // 
-//         ██║  ███╗██║█████╗     ██║   █████╗  ██║  ██║    ██╔████╔██║██║  ██║               // 
-//         ██║   ██║██║██╔══╝     ██║   ██╔══╝  ██║  ██║    ██║╚██╔╝██║██║  ██║               // 
-//         ╚██████╔╝██║██║        ██║   ███████╗██████╔╝    ██║ ╚═╝ ██║██████╔╝               // 
-//          ╚═════╝ ╚═╝╚═╝        ╚═╝   ╚══════╝╚═════╝     ╚═╝     ╚═╝╚═════╝                //
-//                                                                                            //
-//                                                                                            //
-//                                                                                            //
-//                                                                                            //
-//════════════════════════════════════════════════════════════════════════════════════════════//
-*                                                                 
-  * @project_name : Gifted-Md
-   * @author : Gifted Tech Info
-   * @youtube : https://www.youtube.com/@giftedtechnexus
-   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
-   * @version 2.5.0
-*
-* 
-   * Created By Gifted Tech Info.
-   * © 2024 Gifted-Md.
-
-
-*/
-
-
-
-
+/** A SIMPLE WHATSAPP BOT 🔥 OWNED BY Reborn12xero
+ DEVELOPED BY WASI TECH
+ **/
 
 
 
@@ -63,10 +30,10 @@ global.blockJids= process.env.BLOCK_JID || ""
 global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
-global.github=process.env.GITHUB|| "https://github.com/mouricedevs/Gifted-Md";
-global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o";
-global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o" ; 
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/54efddccf41281ad7ec51.jpg"
+global.github=process.env.GITHUB|| "https://github.com/Reborn12xero/Xero-md";
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaRyNQs05MUkHzk96V3b";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaRyNQs05MUkHzk96V3b" ; 
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/68170791ddd8855d356eb.jpg"
 
 
 
